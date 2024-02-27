@@ -1,0 +1,67 @@
+.menu {
+    background-color: #fffefef5; 
+    color: white; 
+    padding: 15px; 
+}
+
+.menu ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center; 
+}
+
+.menu li {
+    margin: 0 10px;
+ }
+
+.menu a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-weight: bolder;
+    
+}
+
+
+.info {
+    background-image:url(https://imgs.search.brave.com/hvSoa8yb5xWj-C3HIvPjQcOsJpQ8vCSjyvTEGvtHDdQ/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9wNC53/YWxscGFwZXJiZXR0/ZXIuY29tL3dhbGxw/YXBlci85OS84OTAv/MzMyL2JsYWNrLWJh/Y2tncm91bmQtbGVh/dGhlci13YWxscGFw/ZXItcHJldmlldy5q/cGc);
+    height: px100;
+    width: px100;
+    color: rgba(99, 218, 129, 0.633); 
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+
+h1 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    color: #ffffff;
+}
+
+
+p {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    color: #ffffff;
+}
+
+
+footer {
+    background-color: #f9f9f9;
+    padding: 20px;
+    text-align: center;
+    font-size: 14px;
+    color: #888;
+}
+
+.banner
+{
+    background-image: url(Imagenes/Imagen\ de\ fondo.jpg)
+    
+}
